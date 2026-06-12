@@ -1,0 +1,25 @@
+# Binaries
+bin/
+bin/dolar
+bin/dolar.exe
+
+# Build artifacts
+obj/
+*.o
+*.obj
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Generated outputs
+outouts/
+
+# Token / secrets
+scripts/token.txt
